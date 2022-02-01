@@ -1,0 +1,1 @@
+A simple program that gets JSON object from static LOL endpoint for each champion and inserts to MongoDB in order to use it as a dataset.
