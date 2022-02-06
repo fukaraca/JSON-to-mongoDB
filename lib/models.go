@@ -5,6 +5,7 @@ import "context"
 var Ctx = context.Background()
 
 //break structs into two separate part to eliminate varying hero names
+
 type LolHeroInfo struct {
 	Type    string                    `json:"type"`
 	Format  string                    `json:"format"`

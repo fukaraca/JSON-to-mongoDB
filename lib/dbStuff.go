@@ -71,6 +71,5 @@ func RetrieveDocument(hero string) *HeroInfoStruct {
 		fmt.Println("decode failed:", err)
 		return nil
 	}
-
 	return &heroInfo
 }
