@@ -1,8 +1,8 @@
-#JSON to MongoDB
+# JSON to MongoDB
 
 A simple Go program that gets JSON object from static LOL endpoint for each champion and inserts to MongoDB in order to use it as a dataset.
 
-##Installation
+## Installation
 
 - Go and Docker must be installed.
 - `go get -u github.com/fukaraca/Json-to-mongoDB`
