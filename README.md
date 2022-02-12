@@ -5,7 +5,7 @@ A simple Go program that gets JSON object from static LOL endpoint for each cham
 ## Installation
 
 - Go and Docker must be installed.
-- `go get -u github.com/fukaraca/Json-to-mongoDB`
+- `git clone https://github.com/fukaraca/JSON-to-mongoDB.git`
 - open terminal inside the app folder and `docker compose up` for first use
 - `go run main.go`
 
